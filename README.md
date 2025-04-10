@@ -17,7 +17,6 @@ No more clicking sound icons — WebMs just play with sound.
 
 ### 1. Install a userscript manager:
 
-- [Tampermonkey for Chrome/Brave/Edge](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 ---
