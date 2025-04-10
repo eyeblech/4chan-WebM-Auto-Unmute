@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         EyeBlech - 4chan WebM Auto-Unmute
-// @namespace    https://github.com/eyeblech/EyeBlech
+// @namespace    https://github.com/eyeblech/4chan-WebM-Auto-Unmute
 // @version      1.0
 // @description  Automatically unmutes all WebM videos on 4chan.org
 // @author       EyeBlech
